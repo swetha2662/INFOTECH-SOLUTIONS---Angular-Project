@@ -1,0 +1,19 @@
+h3{
+    background-color: honeydew;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+}
+
+#col1{
+    background-color:burlywood;
+}
+
+.bgimg1{
+    position:absolute;
+    background-repeat: no-repeat;
+    background-attachment:scroll ;
+    background-size: cover;
+    top:400px;
+    left:500px;
+
+}
